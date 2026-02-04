@@ -1,22 +1,66 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning"
+    authors: "<strong>Tianyuan Yuan</strong>, Yicheng Liu, Chenhao Lu, Zhuoguang Chen, Tao Jiang, Hang Zhao"
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2510.13375.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/depthvla.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: "Galaxea Open-World Dataset and G0 Dual-System VLA Model"
+    authors: "Tao Jiang*, <strong>Tianyuan Yuan</strong>*, Yicheng Liu*, Chenhao Lu, Jianning Cui, Xiao Liu, Shuiqi Cheng, Jiyang Gao, Huazhe Xu, Hang Zhao"
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2509.00576.pdf
+    code: https://github.com/OpenGalaxea/GalaxeaVLA
+    page: https://opengalaxea.github.io/GalaxeaVLA/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/galaxea_open_world.png
+  
+  - title: "LONG3R: Long Sequence Streaming 3D Reconstruction"
+    authors: "Zhuoguang Chen*, Minghui Qin*, <strong>Tianyuan Yuan*</strong>, Zhe Liu, Hang Zhao"
+    conference_short: ICCV
+    conference: IEEE International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2507.18255.pdf
+    page: https://zgchen33.github.io/LONG3R/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/long3r.png
+
+  - title: "PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors"
+    authors: "<strong>Tianyuan Yuan</strong>, Yucheng Mao, Jiawei Yang, Yicheng Liu, Yue Wang, Hang Zhao"
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2403.09079.pdf
+    code: https://github.com/yuantianyuan01/PreSight
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/presight.png
+  
+  - title: "StreamMapNet: Streaming Mapping Network for Vectorized Online HD Map Construction"
+    authors: "<strong>Tianyuan Yuan</strong>, Yicheng Liu, Yue Wang, Yilun Wang, Hang Zhao"
+    conference_short: WACV
+    conference: Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2308.12570.pdf
+    code: https://github.com/yuantianyuan01/StreamMapNet
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/streammapnet.png
+  
+  - title: "Neural Map Prior for Autonomous Driving"
+    authors: "Xuan Xiong, Yicheng Liu, <strong>Tianyuan Yuan</strong>, Yue Wang, Yilun Wang, Hang Zhao"
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    conference: Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2304.08481.pdf
+    code: https://github.com/Tsinghua-MARS-Lab/neural_map_prior
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/neural_map_prior.png
+  
+  - title: "VectorMapNet: End-to-end Vectorized HD Map Learning"
+    authors: "Yicheng Liu, <strong>Tianyuan Yuan</strong>, Yue Wang, Yilun Wang, Hang Zhao"
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2206.08920.pdf
+    page: https://tsinghua-mars-lab.github.io/vectormapnet/
+    code: https://github.com/Mrmoore98/VectorMapNet_code
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/vectormapnet.png
