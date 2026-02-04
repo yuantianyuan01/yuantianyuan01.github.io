@@ -21,5 +21,4 @@ My goal is to enable machines to perceive and interact with the physical world i
 - **[Mar. 2025]** Our paper [LONG3R](https://arxiv.org/pdf/2507.18255.pdf) is accepted by ICCV 2025.
 
 {% include_relative _includes/publications.md %}
-<p style="font-size: small; color: gray;">* Equal contribution.</p>
 <!-- {% include_relative _includes/services.md %} -->

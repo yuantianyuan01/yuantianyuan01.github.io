@@ -1,4 +1,10 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<!-- <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2> -->
+<h2 id="publications" style="margin: 2px 0px -15px;">
+  Publications 
+  <span style="font-size: 0.6em; color: #777; font-weight: normal; margin-left: 10px;">
+    (* indicates equal contribution)
+  </span>
+</h2>
 
 <div class="publications">
 <ol class="bibliography">
