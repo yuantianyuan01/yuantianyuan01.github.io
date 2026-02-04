@@ -46,6 +46,15 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/streammapnet.png
   
+  - title: "Diffusion-Based Generative Models for 3D Occupancy Prediction"
+    authors: "Yunshen Wang*, Yicheng Liu*, <strong>Tianyuan Yuan*</strong>, Yingshi Liang, Xiuyu Yang, Honggang Zhang, Hang Zhao"
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2505.23115
+    # code: https://github.com/yuantianyuan01/StreamMapNet
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/diff-occ.png
+  
   - title: "Neural Map Prior for Autonomous Driving"
     authors: "Xuan Xiong, Yicheng Liu, <strong>Tianyuan Yuan</strong>, Yue Wang, Yilun Wang, Hang Zhao"
     conference_short: CVPR
