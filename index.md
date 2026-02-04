@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a fourth-year Ph.D. candidate at the Institute for Interdisciplinary Information Sciences (IIIS), **Tsinghua University**, advised by Prof. [Hang Zhao](https://hangzhaomit.github.io/). Before that, I received my B.E. degree from **Peking University**.
+I am a fourth-year Ph.D. candidate at the Institute for Interdisciplinary Information Sciences (IIIS), **Tsinghua University**, advised by Prof. [Hang Zhao](https://hangzhaomit.github.io/). Before that, I received my Bachelor's degree from **Peking University**.
 
 My goal is to enable machines to perceive and interact with the physical world intelligently. To this end, my research bridges Computer Vision and End-to-End Learning, specifically within the contexts of **Embodied AI** and **Autonomous Driving**. Recently, I have been focusing on developing **Vision-Language-Action (VLA)** models and **World-Action models** to enhance robotic capabilities.
 
