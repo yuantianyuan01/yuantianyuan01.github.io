@@ -1,5 +1,14 @@
 main:
 
+  - title: "Fast-WAM: Do World Action Models Need Test-time Future Imagination?"
+    authors: "<strong>Tianyuan Yuan</strong>, Zibin Dong, Yicheng Liu, Hang Zhao"
+    # conference_short: arXiv
+    # conference: arXiv preprint, 2026.
+    pdf: https://arxiv.org/pdf/2603.16666.pdf
+    code: https://github.com/yuantianyuan01/FastWAM
+    page: https://yuantianyuan01.github.io/FastWAM/
+    image: ./assets/img/fastwam.png
+
   - title: "DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning"
     authors: "<strong>Tianyuan Yuan</strong>, Yicheng Liu, Chenhao Lu, Zhuoguang Chen, Tao Jiang, Hang Zhao"
     conference_short: ICRA
