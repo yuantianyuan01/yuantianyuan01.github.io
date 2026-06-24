@@ -6,7 +6,7 @@ layout: homepage
 
 I am a fourth-year Ph.D. candidate at the Institute for Interdisciplinary Information Sciences (IIIS), **Tsinghua University**, advised by Prof. [Hang Zhao](https://hangzhaomit.github.io/). Before that, I received my Bachelor's degree from **Peking University**.
 
-My goal is to enable machines to perceive and interact with the physical world intelligently. To this end, my research bridges Computer Vision and End-to-End Learning, specifically within the contexts of **Embodied AI** and **Autonomous Driving**. Recently, I have been focusing on developing **Vision-Language-Action (VLA)** models and **World-Action models** to enhance robotic capabilities.
+My goal is to enable machines to perceive and interact with the physical world intelligently. To this end, my research bridges Computer Vision and End-to-End Learning, specifically within the contexts of **Embodied AI** and **Autonomous Driving**. Recently, I have been focusing on developing **Vision-Language-Action (VLA)** models and **World-Action models** to enhance robotic capabilities. Currently, I am leading the foundation action model pretraining team in Galaxea.
 
 ## Research Interests
 
@@ -15,9 +15,10 @@ My goal is to enable machines to perceive and interact with the physical world i
 
 ## News
 
+- **[Jun. 2026]** We released [G0.5](https://opengalaxea.github.io/G05/), our most advance Vision-Language-Action model. With large scale pretraining, it understands arbitrary natural-language instructions and interacts with novel objects out of the box, without object-specific engineering.
 - **[Mar. 2026]** We released [Fast-WAM](https://yuantianyuan01.github.io/FastWAM/) to answer the key question for WAMs: **Do WAMs benefit mainly from explicit future imagination at inference, or from video modeling during training?** We propose Fast-WAM, a World Action Model that removes explicit future imagination at test time.
 - **[Jan. 2026]** Our paper [DepthVLA](https://arxiv.org/pdf/2510.13375.pdf) and [Galaxea Open-World Dataset](https://opengalaxea.github.io/GalaxeaVLA/) is accepted by ICRA 2026. 
-- **[Jan. 2026]** We released [G0Plus](https://github.com/OpenGalaxea/GalaxeaVLA)., our latest pre-trained VLA model for multi-task robot manipulation.
+- **[Jan. 2026]** We released [G0Plus](https://github.com/OpenGalaxea/GalaxeaVLA), a pre-trained VLA model for multi-task robot manipulation.
 - **[Sep. 2025]** We released Galaxea Open-World Dataset and G0 VLA on [Github](https://github.com/OpenGalaxea/GalaxeaVLA) and [Huggingface](https://huggingface.co/datasets/OpenGalaxea/Galaxea-Open-World-Dataset).
 - **[Mar. 2025]** Our paper [LONG3R](https://arxiv.org/pdf/2507.18255.pdf) is accepted by ICCV 2025.
 
