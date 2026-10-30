@@ -15,6 +15,7 @@ My goal is to enable machines to perceive and interact with the physical world i
 
 ## News
 
+- **[Sep. 2026]** Our paper [Fast-WAM](https://yuantianyuan01.github.io/FastWAM/) has been accepted to **NeurIPS 2026** as a **Spotlight**.
 - **[Jun. 2026]** We released [G0.5](https://opengalaxea.github.io/G05/), our most advance Vision-Language-Action model. With large scale pretraining, it understands arbitrary natural-language instructions and interacts with novel objects out of the box, without object-specific engineering.
 - **[Mar. 2026]** We released [Fast-WAM](https://yuantianyuan01.github.io/FastWAM/) to answer the key question for WAMs: **Do WAMs benefit mainly from explicit future imagination at inference, or from video modeling during training?** We propose Fast-WAM, a World Action Model that removes explicit future imagination at test time.
 - **[Jan. 2026]** Our paper [DepthVLA](https://arxiv.org/pdf/2510.13375.pdf) and [Galaxea Open-World Dataset](https://opengalaxea.github.io/GalaxeaVLA/) is accepted by ICRA 2026. 
